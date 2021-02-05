@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Kulkarni
+Build-Jdk: 15.0.1
+Implementation-Title: spring-boot-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.Deloitte-Assignment
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Deloitte-Assignment
+Created-By: Maven Integration for Eclipse
+
